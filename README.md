@@ -18,7 +18,11 @@ I’m a 15 years old NodeJS developer from Poland.
 
 ### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+### 🎵 Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=turffya8jwxos5yknfym2ifhh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 ### ⚡ Activity
