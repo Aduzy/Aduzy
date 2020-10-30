@@ -6,7 +6,7 @@ I’m a 15 years old NodeJS developer from Poland.
 
 - 🔭 I’m currently working on my project [Dingo V2](https://top.gg/bot/694633060905517106)
 - 🌱 I’m currently learning C# and Vue.js
-- 💬 Join my discord server [here](https://discord.gg/sRH6rp)
+- 💬 Join my discord server NOT WORKING YET
 
 **Languages and Tools:**  
 
