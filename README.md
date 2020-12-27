@@ -25,13 +25,13 @@ I’m a 15 years old NodeJS developer from Poland.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=turffya8jwxos5yknfym2ifhh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
+
+<!---
 ### ⚡ Activity
 <details>
   <summary> Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-</details>
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
