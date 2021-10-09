@@ -1,10 +1,10 @@
-### Hi there, I'm [Natanek aka Aduzy](https://discord.bio/p/natanekdev) 👋
+### Hi there, I'm Nathan aka Aduzy (or Vivato)👋
 <br />
 <br />
 
-I’m a 15 years old NodeJS developer from Poland.
+<h1>16 y/o developer from poland</h1>
 
-- 🔭 I’m currently working on my project [Vivian](https://dingobot.fun/)
+- 🔭 I’m currently working on my project [Vivian](https://dingobot.fun/) - Took a break (will arrive late 2022 or something)
 - 🌱 I’m currently learning C# and React
 - 💬 Join my discord server NOT WORKING YET
 
@@ -23,7 +23,7 @@ I’m a 15 years old NodeJS developer from Poland.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 ### 🎵 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=turffya8jwxos5yknfym2ifhh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o1rxeb1hp4f5tp7h3ye8rmf4l&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 
