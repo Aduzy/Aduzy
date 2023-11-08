@@ -1,13 +1,3 @@
-### Hi there, I'm Nathan aka Aduzy (or Vivato)👋
-<br />
-<br />
-
-<h1>16 y/o developer from poland</h1>
-
-- 🔭 I’m currently working on my project [Vivian](https://dingobot.fun/) - Took a break (will arrive late 2022 or something)
-- 🌱 I’m currently learning C# and React
-- 💬 Join my discord server NOT WORKING YET
-
 **Languages and Tools:**  
 
 
